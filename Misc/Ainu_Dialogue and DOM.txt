@@ -1,0 +1,54 @@
+**Here is all the Ainu-specific dialogue that I know is needed in a mod. If there's any more, please let me know.**
+		
+		LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY
+            You have my thanks. The Ainu people will always welcome friends who stand against those who threaten our freedom.
+        
+        LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            I am sorry, but this is not in the interests of Aynu Mosir at this time.
+        
+        LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            Hmm. You don't seem that bad, for someone from across the water. How about a Declaration of Friendship, so the Shamo will know you're not one of them?
+        
+        LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            I am always glad to welcome a new ally to our cause. Perhaps I could show you how to hunt some time.
+        
+        LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            I must refuse. I am not sure whether I can trust you not to march into my land and claim that you own it.
+        
+        LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            Aynu Mosir has been threatened for far too long now. It is time for us to become a power in our own right. You, as far as I can tell, stand in the way of that.
+        
+        LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            I am afraid that I must do this, for the sake of the rebellion.
+        
+        LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            Shamo! Shamo everywhere! How could I have let this happen? I give you my word, this is not the end for the Ainu, far from it...
+        
+        LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            Your delegation has been graciously accepted. If they come back to your lands and refuse to farm, though, that's your problem.
+        
+        LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            The answer is no. I cannot allow outsiders into my capital after what happened last time.
+        
+        LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            Courtesy dictates that I must find something of my people to give you. Please accept the bear that I sent with my delegation.
+        
+        LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            I thought you were different from the other Shamo. I guess I was mistaken.
+        
+        LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            These farmer people, they're all the same. Get away from me and learn how to live properly.
+        
+        LOC_DIPLO_FIRST_MEET_LEADER_SAMKUSAYNU_ANY 
+            Welcome to our quiet land of people and of spirits, whoever you may be. I am Samkusaynu, chief of Aynu Mosir. Good hunting to you.
+        
+        LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAMKUSAYNU_ANY 
+            An outsider in Aynu Mosir? What is this? We don't usually let people in. But seeing as you're here, you must have some interesting things to say. Come, let us have a caranke!
+        
+        LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAMKUSAYNU_ANY 
+            The Ainu people thank you.
+			
+
+			
+*Dawn of Man Quote*
+All remember when your people were scattered around your homeland, living peacefully but without unity, and with no way of resisting the southern invaders. Those days are behind the Ainu now. Arise, Chief Samkusaynu! Under your banner, backed by thousands of years of tales of the Kamuy, Aynu Mosir will overcome all enemies, and perhaps reclaim that which was lost to the Shamo centuries previously?
