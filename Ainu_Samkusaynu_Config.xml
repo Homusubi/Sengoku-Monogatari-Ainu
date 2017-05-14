@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AINU</CivilizationType>
+			<LeaderType>LEADER_AINU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_AINU_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_AINU</CivilizationIcon>
+			<LeaderName>LOC_LEADER_SAMKUSAYNU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_SAMKUSAYNU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_KAMUY_YUKAR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_KAMUY_YUKAR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_AINU</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_SAMKUSAYNU_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_SAMKUSAYNU_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_SAMKUSAYNU</LeaderAbilityIcon>
+			<Portrait>LEADER_SAMKUSAYNU_NEUTRAL</Portrait>
+		</Row>
+	</Players>
+
+	<PlayerItems>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AINU</CivilizationType>
+			<LeaderType>LEADER_SAMKUSAYNU</LeaderType>
+			<Type>DISTRICT_KOTAN</Type>
+			<Name>LOC_TRAIT_DISTRICT_KOTAN_NAME</Name>
+			<Description>LOC_TRAIT_DISTRICT_KOTAN_DESCRIPTION</Description>
+			<Icon>ICON_DISTRICT_NEIGHBORHOOD</Icon>
+			<SortIndex>10</SortIndex>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_AINU</CivilizationType>
+			<LeaderType>LEADER_SAMKUSAYNU</LeaderType>
+			<Type>UNIT_SURKU_ARCHER</Type>
+			<Name>LOC_TRAIT_SURKU_ARCHER_NAME</Name>
+			<Description>LOC_TRAIT_SURKU_ARCHER_DESCRIPTION</Description>
+			<Icon>ICON_UNIT_ARCHER</Icon>
+			<SortIndex>20</SortIndex>
+		</Row>
+	</PlayerItems>
+</GameData>

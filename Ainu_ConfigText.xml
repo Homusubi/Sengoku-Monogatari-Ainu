@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_AINU_NAME" Language="en_US">
+			<Text>Ainu</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_AINU_DESCRIPTION" Language="en_US">
+			<Text>The Ainu</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_SAMKUSAYNU_NAME" Language="en_US">
+			<Text>Samkusaynu</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_KAMUY_YUKAR_NAME" Language="en_US">
+			<Text>Kamuy Yukar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_KAMUY_YUKAR_DESCRIPTION" Language="en_US">
+			<Text>Gain extra yields in the capital when a [ICON_GreatPerson]Great Person is activated and for every turn after for the rest of the game.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SAMKUSAYNU_NAME" Language="en_US">
+			<Text>Samkusaynu Rebellion</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SAMKUSAYNU_DESCRIPTION" Language="en_US">
+			<Text>[ICON_GreatGeneral]Great Generals are earned at twice the normal rate and spawn with bonus military units. Gain 1 unit for every 5 population in your [ICON_Capital]capital.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DISTRICT_KOTAN_NAME" Language="en_US">
+			<Text>Kotan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DISTRICT_KOTAN_DESCRIPTION" Language="en_US">
+			<Text>Neighborhood replacement unique to the Ainu available at Sanitation. Grants bonus [ICON_Culture]Culture and [ICON_Food]Food for each adjacent Woods and Mountains. Grants bonus [ICON_Culture]Culture, [ICON_Gold]Gold and [ICON_Science] for adjacent Natural Wonders.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SURKU_ARCHER_NAME" Language="en_US">
+			<Text>Surku Archer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SURKU_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Ranged unit which is unique to the Ainu. Replaces the archer and can move through woods unhindered.</Text>
+		</Row>
+
+		<!--
+		<Row Tag="" Language="en_US">
+			<Text></Text>
+		</Row>
+		-->
+	</LocalizedText>
+</GameData>

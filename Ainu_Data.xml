@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<!-- Ainu: Samkusaynu & Kayano -->
+		<Row Type="CIVILIZATION_AINU" Kind="KIND_CIVILIZATION"/>
+		<Row Type="LEADER_SAMKUSAYNU" Kind="KIND_LEADER"/>
+		<Row Type="LEADER_KAYANO" Kind="KIND_LEADER"/>
+		
+		<Row Type="TRAIT_CIVILIZATION_KAMUY_YUKAR" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_SAMKUSAYNU" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_LEADER_KAYANO" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_UNIT_SURKU_ARCHER" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_DISTRICT_KOTAN" Kind="KIND_TRAIT"/>
+		
+		<Row Type="ABILITY_KAMUY_YUKAR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SAMKUSAYNU" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_KAYANO" Kind="KIND_ABILITY"/>
+		<Row Type="UNIT_SURKU_ARCHER" Kind="KIND_UNIT"/>
+		<Row Type="ABILITY_SURKU_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="DISTRICT_KOTAN" Kind="KIND_DISTRICT"/>
+		<Row Type="BUILDING_KAMUY_YUKAR" Kind="KIND_BUILDING"/>
+	</Types>
+
+	<Tags>
+		<Row Tag="CLASS_SURKU_ARCHER" Vocabulary="ABILITY_CLASS"/>
+	</Tags>
+
+	<TypeTags>
+		<Row Type="ABILITY_SURKU_ARCHER" Tag="CLASS_SURKU_ARCHER"/>
+		<Row Type="UNIT_SURKU_ARCHER" Tag="CLASS_SURKU_ARCHER"/>
+	</TypeTags>
+	
+	<Civilizations>
+		<Row>
+			<CivilizationType>CIVILIZATION_AINU</CivilizationType>
+			<Name>LOC_CIVILIZATION_AINU_NAME</Name>
+			<Description>LOC_CIVILIZATION_AINU_DESCRIPTION</Description>
+			<Adjective>LOC_CIVILIZATION_AINU_ADJECTIVE</Adjective>
+			<StartingCivilizationLevelType>CIVILIZATION_LEVEL_FULL_CIV</StartingCivilizationLevelType>
+		</Row>
+	</Civilizations>
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_AINU" LeaderType="LEADER_SAMKUSAYNU" CapitalName="LOC_CIVLIZATION_SAMKUSAYNU_CAPITAL_CITY" />
+		<Row CivilizationType="CIVILIZATION_AINU" LeaderType="LEADER_KAYANO" CapitalName="LOC_CIVLIZATION_KAYANO_CAPITAL_CITY" />
+	</CivilizationLeaders>
+
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_AINU" TraitType="TRAIT_CIVILIZATION_KAMUY_YUKAR"/>
+		<Row CivilizationType="CIVILIZATION_AINU" TraitType="TRAIT_DISTRICT_KOTAN"/>
+		<Row CivilizationType="CIVILIZATION_AINU" TraitType="TRAIT_UNIT_SURKU_ARCHER"/>
+	</CivilizationTraits>
+	
+	<Leaders>
+		<Row>
+			<LeaderType>LEADER_SAMKUSAYNU</LeaderType>
+			<Name>LOC_LEADER_SAMKUSAYNU_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_KAYANO</LeaderType>
+			<Name>LOC_LEADER_KAYANO_NAME</Name>
+			<InheritFrom>LEADER_DEFAULT</InheritFrom>
+		</Row>
+	</Leaders>
+
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_KAMUY_YUKAR" Name="LOC_TRAIT_KAMUY_YUKAR_NAME" Description="LOC_TRAIT_KAMUY_YUKAR_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SAMKUSAYNU" Name="LOC_TRAIT_SAMKUSAYNU_NAME" Description="LOC_TRAIT_SAMKUSAYNU_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_KAYANO" Name="LOC_TRAIT_KAYANO_NAME" Description="LOC_TRAIT_KAYANO_DESCRIPTION"/>
+		<Row TraitType="TRAIT_DISTRICT_KOTAN" Name="LOC_TRAIT_DISTRICT_KOTAN_NAME" Description="LOC_TRAIT_DISTRICT_KOTAN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_UNIT_SURKU_ARCHER" Name="LOC_TRAIT_UNIT_SURKU_ARCHER_NAME" Description="LOC_TRAIT_UNIT_SURKU_ARCHER_DESCRIPTION"/>
+	</Traits>
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_SAMKUSAYNU" TraitType="TRAIT_LEADER_SAMKUSAYNU"/>
+		<Row LeaderType="LEADER_KAYANO" TraitType="TRAIT_LEADER_KAYANO"/>
+	</LeaderTraits>
+	
+	<Units>
+		<Row>
+			<UnitType>UNIT_SURKU_ARCHER</UnitType>
+			<BaseMoves>2</BaseMoves>
+			<Cost>80</Cost>
+			<AdvisorType>ADVISOR_CONQUEST</AdvisorType>
+			<BaseSightRange>2</BaseSightRange>
+			<Domain>DOMAIN_LAND</Domain>
+			<FormationClass>FORMATION_CLASS_LAND_COMBAT</FormationClass>
+			<Name>LOC_UNIT_SURKU_ARCHER_NAME</Name>
+			<Description>LOC_UNIT_SURKU_ARCHER_DESCRIPTION</Description>
+			<CanCapture>1</CanCapture>
+			<PurchaseYield>YIELD_GOLD</PurchaseYield>
+			<PromotionClass>PROMOTION_CLASS_RANGED</PromotionClass>
+			<Combat>20</Combat>
+			<RangedCombat>30</RangedCombat>
+			<PrereqTech>TECH_ARCHERY</PrereqTech>
+			<MandatoryObsoleteTech>TECH_MACHINERY</MandatoryObsoleteTech>
+			<TraitType>TRAIT_UNIT_SURKU_ARCHER</TraitType>
+			<Maintenance>1</Maintenance>
+		</Row>
+	</Units>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_SURKU_ARCHER" Name="LOC_ABILITY_SURKU_ARCHER_NAME" Description="LOC_ABILITY_SURKU_ARCHER_DESCRIPTION" Inactive="0"/>
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_SURKU_ARCHER" ModifierId="SURKU_ARCHER_IGNORE_WOODS"/>
+	</UnitAbilityModifiers>
+
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_SURKU_ARCHER" ReplacesUnitType="UNIT_ARCHER"/>
+	</UnitReplaces>
+
+	<TraitModifiers>
+		<!-- TRAIT_CIVILIZATION_KAMUY_YUKAR has no direct modifier. instead it is linked through the GreatPersonIndividualActionModifiers table with a requirement for Ainu civ -->
+		<Row TraitType="TRAIT_LEADER_SAMKUSAYNU" ModifierId="SAMKUSAYNO_DOUBLE_GENERAL_POINTS"/>
+		<!-- second part of TRAIT_LEADER_SAMKUSAYNU has no modifier as it is contained in the AinuGameplay.lua script -->
+		<!-- TRAIT_LEADER_KAYANO will be something diplomacy focused which is yet to be determined -->
+	</TraitModifiers>
+	
+	<Districts>
+		<Row>
+			<DistrictType>DISTRICT_KOTAN</DistrictType>
+			<Name>LOC_DISTRICT_KOTAN_NAME</Name>
+			<Coast>0</Coast>
+			<Description>LOC_DISTRICT_KOTAN_DESCRIPTION</Description>
+			<Cost>30</Cost>
+			<RequiresPlacement>1</RequiresPlacement>
+			<RequiresPopulation>1</RequiresPopulation>
+			<NoAdjacentCity>1</NoAdjacentCity>
+			<Aqueduct>0</Aqueduct>
+			<InternalOnly>0</InternalOnly>
+			<CaptureRemovesBuildings>0</CaptureRemovesBuildings>
+			<CaptureRemovesCityDefenses>0</CaptureRemovesCityDefenses>
+			<PlunderType>PLUNDER_GOLD</PlunderType>
+			<PlunderAmount>50</PlunderAmount>
+			<MilitaryDomain>NO_DOMAIN</MilitaryDomain>
+			<CostProgressionModel>COST_PROGRESSION_GAME_PROGRESS</CostProgressionModel>
+			<CostProgressionParam1>1000</CostProgressionParam1>
+			<TraitType>TRAIT_DISTRICT_KOTAN</TraitType>
+			<Housing>3</Housing>
+			<OnePerCity>0</OnePerCity>
+			<PrereqTech>TECH_SANITATION</PrereqTech>
+			<Maintenance>0</Maintenance>
+			<AdvisorType>ADVISOR_GENERIC</AdvisorType>
+		</Row>
+	</Districts>
+
+	<DistrictReplaces>
+		<Row CivUniqueDistrictType="DISTRICT_KOTAN" ReplacesDistrictType="DISTRICT_NEIGHBORHOOD"/>
+	</DistrictReplaces>
+
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_Forest_Food"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_Forest_Culture"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_Grass_Mountain_Culture"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_Plains_Mountain_Culture"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_Desert_Mountain_Culture"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_Tundra_Mountain_Culture"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_Snow_Mountain_Culture"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_NaturalWonder_Culture"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_NaturalWonder_Gold"/>
+		<Row DistrictType="DISTRICT_KOTAN" YieldChangeId="Kotan_NaturalWonder_Science"/>
+	</District_Adjacencies>
+
+	<Adjacency_YieldChanges>
+		<Row ID="Kotan_Forest_Food" Description="LOC_PLACEHOLDER" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentFeature="FEATURE_FOREST"/>
+		<Row ID="Kotan_Forest_Culture" Description="LOC_PLACEHOLDER" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentFeature="FEATURE_FOREST"/>
+		<Row ID="Kotan_Grass_Mountain_Culture" Description="LOC_PLACEHOLDER" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row ID="Kotan_Plains_Mountain_Culture" Description="LOC_PLACEHOLDER" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row ID="Kotan_Desert_Mountain_Culture" Description="LOC_PLACEHOLDER" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row ID="Kotan_Tundra_Mountain_Culture" Description="LOC_PLACEHOLDER" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row ID="Kotan_Snow_Mountain_Culture" Description="LOC_PLACEHOLDER" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentTerrain="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row ID="Kotan_NaturalWonder_Culture" Description="LOC_PLACEHOLDER" YieldType="YIELD_CULTURE" YieldChange="2" TilesRequired="1" AdjacentNaturalWonder="1"/>
+		<Row ID="Kotan_NaturalWonder_Gold" Description="LOC_PLACEHOLDER" YieldType="YIELD_GOLD" YieldChange="2" TilesRequired="1" AdjacentNaturalWonder="1"/>
+		<Row ID="Kotan_NaturalWonder_Science" Description="LOC_PLACEHOLDER" YieldType="YIELD_SCIENCE" YieldChange="2" TilesRequired="1" AdjacentNaturalWonder="1"/>
+	</Adjacency_YieldChanges>
+
+	<Buildings>
+		<!-- building used as requirement of the Kamuy Yukar modifier. created in lua script -->
+		<Row>
+			<BuildingType>BUILDING_KAMUY_YUKAR</BuildingType>
+			<Name>LOC_BUILDING_KAMUY_YUKAR_NAME</Name>
+			<Cost>10</Cost>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+			<MaxWorldInstances>-1</MaxWorldInstances>
+			<Capital>1</Capital>
+			<PrereqDistrict>DISTRICT_CITY_CENTER</PrereqDistrict>
+			<EnabledByReligion>1</EnabledByReligion>
+			<PurchaseYield>YIELD_CULTURE</PurchaseYield>
+			<MustPurchase>1</MustPurchase>
+			<InternalOnly>0</InternalOnly>
+		</Row>
+	</Buildings>
+	
+	<Modifiers>
+		<Row ModifierId="SAMKUSAYNO_DOUBLE_GENERAL_POINTS" ModifierType="MODIFIER_PLAYER_ADJUST_GREAT_PERSON_POINTS_PERCENT"/>
+		<!-- Kamuy Yukar modifiers are attached to the player's capital when a great person is activated. yield type is based on the great person type -->
+		<Row ModifierId="KAMUY_YUKAR_GRANT_CULTURE" ModifierType="MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_CITY_YIELD_CHANGE" SubjectRequirementSetId="KAMUY_YUKAR_REQUIREMENTS"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_FAITH" ModifierType="MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_CITY_YIELD_CHANGE" SubjectRequirementSetId="KAMUY_YUKAR_REQUIREMENTS"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_GOLD" ModifierType="MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_CITY_YIELD_CHANGE" SubjectRequirementSetId="KAMUY_YUKAR_REQUIREMENTS"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_PRODUCTION" ModifierType="MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_CITY_YIELD_CHANGE" SubjectRequirementSetId="KAMUY_YUKAR_REQUIREMENTS"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_SCIENCE" ModifierType="MODIFIER_PLAYER_CAPITAL_CITY_ADJUST_CITY_YIELD_CHANGE" SubjectRequirementSetId="KAMUY_YUKAR_REQUIREMENTS"/>
+		<Row ModifierId="SURKU_ARCHER_IGNORE_WOODS" ModifierType="MODIFIER_PLAYER_UNIT_ADJUST_IGNORE_TERRAIN_COST"/>
+	</Modifiers>
+	
+	<ModifierArguments>
+		<Row ModifierId="SAMKUSAYNO_DOUBLE_GENERAL_POINTS" Name="GreatPersonClassType" Value="GREAT_PERSON_CLASS_GENERAL"/>
+		<Row ModifierId="SAMKUSAYNO_DOUBLE_GENERAL_POINTS" Name="Amount" Value="100"/>
+		<!-- only +1 from culture great people because they can be activated multiple times -->
+		<Row ModifierId="KAMUY_YUKAR_GRANT_CULTURE" Name="YieldType" Value="YIELD_CULTURE"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_CULTURE" Name="Amount" Value="1"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_FAITH" Name="YieldType" Value="YIELD_FAITH"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_FAITH" Name="Amount" Value="2"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_GOLD" Name="YieldType" Value="YIELD_GOLD"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_GOLD" Name="Amount" Value="2"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_PRODUCTION" Name="YieldType" Value="YIELD_PRODUCTION"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_PRODUCTION" Name="Amount" Value="2"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_SCIENCE" Name="YieldType" Value="YIELD_SCIENCE"/>
+		<Row ModifierId="KAMUY_YUKAR_GRANT_SCIENCE" Name="Amount" Value="2"/>
+		<Row ModifierId="SURKU_ARCHER_IGNORE_WOODS" Name="Ignore" Value="1"/>
+		<Row ModifierId="SURKU_ARCHER_IGNORE_WOODS" Name="Type" Value="FOREST"/>
+	</ModifierArguments>
+	
+	<RequirementSets>
+		<Row RequirementSetId="DISTRICT_IS_KOTAN" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+		<Row RequirementSetId="KAMUY_YUKAR_REQUIREMENTS" RequirementSetType="REQUIREMENTSET_TEST_ALL"/>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row RequirementSetId="DISTRICT_IS_KOTAN" RequirementId="REQUIRES_DISTRICT_IS_KOTAN"/>
+		<Row RequirementSetId="KAMUY_YUKAR_REQUIREMENTS" RequirementId="REQUIRES_CAPITAL_HAS_KAMUY_YUKAR"/>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row RequirementId="REQUIRES_DISTRICT_IS_KOTAN" RequirementType="REQUIREMENT_DISTRICT_TYPE_MATCHES"/>
+		<Row RequirementId="REQUIRES_CAPITAL_HAS_KAMUY_YUKAR" RequirementType="REQUIREMENT_CITY_HAS_BUILDING"/>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row RequirementId="REQUIRES_DISTRICT_IS_KOTAN" Name="DistrictType" Value="DISTRICT_KOTAN"/>
+		<Row RequirementId="REQUIRES_CAPITAL_HAS_KAMUY_YUKAR" Name="BuildingType" Value="BUILDING_KAMUY_YUKAR"/>
+	</RequirementArguments>
+	
+</GameData>
