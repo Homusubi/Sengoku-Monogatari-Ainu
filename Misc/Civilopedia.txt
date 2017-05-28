@@ -1,5 +1,6 @@
 Surku
 
+Surku is an Ainu word that refers to any of a number of poisons used in traditional Ainu hunting. The recipe for surku, generally a mixture of various plant and insect poisons, varied from household to household and was a closely guarded secret, but was usually based on the aconite plant. Although primarily a tool for hunting animals, the surku was also occasionally used whenever the Ainu had a need to go to war - or at least, that's what the invaders thought when they tried to ban it after annexing Aynu Mosir.
 
 Kotan
 
@@ -7,28 +8,40 @@ A kotan is, simply put, a traditional Ainu village (well, more like a hamlet rea
 
 Ainu Civilisation
 
+The Ainu are an anomaly. Not many people expect to find a hunter-gatherer culture on the Japanese islands, much less one that seemingly predates the 'Wajin' culture that we now think of as 'Japanese'. What's more, nobody truly knows where they come from, or the origins of their isolated language.
 
+The most common theory is that the Ainu are related to the Jomon hunter-gatherers that inhabited Japan before the mass migrations from Korea in the 600s. But then again, nobody knows where the Jomon came from either! And for that matter, nobody knows whether they were actually pushed out of southern Japan or just assimilated into the new Yayoi/Wajin culture. Either way, by the last few centuries of the first millennium CE, what we now know as Japan (except the Ryukyu islands) had split into two: the Yayoi kingdom of Yamato in the south, proponents of rice culture, colossal keyhole-shaped tombs and relatively unimpressive pottery, and the Emishi people in the north, who seemingly kept to the old Jomon ways of hunting and gathering in Tohoku's rich forests.
 
+Despite valiant resistance, most notably under Chief Aterui of Isawa, the Emishi were gradually pushed north by the encroaching Yamato kingdom - or empire, as it had become - and eventually the entirety of Honshu was subjected to rule from Kyoto (and, later, Kamakura). Many Emishi fled to the island just to the north of Honshu, which the Wajin termed Watarishima, the 'Crossing Island' - or land across the water. Perhaps these Emishi were the ancestors of the Ainu? Or did they come from the other direction, from Siberia to the north? Will we ever know?
 
 Anyway, the Ainu lived relatively peacefully for the next few centuries, as successive Japanese emperors and shogun had more important things to worry about than the island to their north, which they called Ezochi.
 
 The first threat to Ainu rule over Aynu Mosir came in the 1400s, when the Kakizaki (later Matsumae) samurai clan from the mainland built a castle in the far south of Ezochi, and started to build their wealth on incursions into this new land and on trading with the Ainu. Even at this early stage, the Ainu of southern Ezochi sometimes ended up in armed conflict with the Matsumae, most notably in the Koshamain War of the 1450s, which the Wajin eventually won through importing troops from the mainland.
 
 
+After 1600, when Japan's century of civil wars drew to a close and the Tokugawa clan were able to recreate a unified Japanese state, the situation only got worse for the Ainu. The Matsumae position was made official, and trade with the Ainu increased in volume to the extent that many Ainu in the south were encouraged to make their life depend on Japanese produce, which they could only acquire by exporting unsustainable amounts of hunted goods.
 
+Conditions worsened in 1644, when the shogunate changed Ainu trading rules to give the Matsumae the strategic advantage, letting them press further into the interior and founding what were initially trade posts and mining camps but which later became slave colonies. The Ainu did try and resist in 1669, when for the first time in their history, many Ainu from disparate - even enemy - tribes united into one army under Chief Samkusaynu (Shakushain) to drive the Wajin invaders from their ancient land. Initially, the rebellion was a success, all but destroying the Wajin presence outside the Matsumae enclave in the far south. However, as more reinforcements arrived from the mainland, the Ainu were pushed back (Ainu archers were unable to penetrate samurai armour) and were eventually forced to sign a humiliating peace treaty, after which Shakushain was dishonourably assassinated.
 
+And so things stood until the Meiji Restoration of 1868, when the newly reformed Empire of Japan decided that, in order to prevent Russian expansion and to secure natural resources for their industry, that they would find a way to make things even worse for the poor Ainu, and invade Ezochi properly. This they managed without much trouble - the Wajin far outnumbered the Ainu - and began a policy of assimilation in the newly renamed island of Hokkaido. The inu language was banned, Japanese territorial laws prevented the Ainu from returning to their traditional way of life, and the general misery continued as before. An act of 1899 described the Ainu as "former aborigines", rewriting the past so as to make it seem like Hokkaido had always been Hokkaido. And so the situation remained for the next hundred or so years. The situation grew so dire that many Ainu gave up on being Ainu altogether and attempted to 'pass' as Wajin, forgetting their culture and heritage entirely.
 
+The situation has only started improving again in the last few decades. The 1899 act is no more, and the Ainu have finally been recognised as the indigenous people of Japan. Although there are only about 100 truly native speakers of the Ainu language still alive in the world, a textbook and several dictionaries have been published, making it seem like it could fairly easily undergo a revival with the right government support. And, at one point in the 1990s, the Ainu finally managed to put one of their own into the House of Councillors of the Diet of Japan - Kayano Shigeru, who for most of his life had tirelessly travelled around Japan, making every effort possible to preserve the heritage of his people in the face of assimilation, mass tourism, and unhelpful researchers.
 
+Not all is right for today's Ainu. But it must surely be the case that their darkest days are behind them.
 
+Kayano - Leader Quote (black box on civilopedia)
 
+With only a few exceptions, most scholars since the early decades of this century have continued to state in papers that Ainu language and culture are dead, and that we are a 'dying race'. How many of them have tried to help us in preserving and transmitting our culture?
 
 Almost none.
 
 
 
 
+Samkusaynu - Civilopedia "Summary"
 
 While other civs are likely to view forests as obstacles to district production, the Ainu are encouraged to settle close to them while leaving them untouched. Strategic placement of Kotan for housing and the food bonuses to go with it can lead to a strong foundation for Samkusaynu to pursue less peaceful goals with his Great Generals and the army to go with them.
 
+Samkusaynu - Civilopedia "Detailed Approach"
 
 As mentioned before, the Ainu thrive when near forests and mountains. Not only do they make the Kotan significant, but they allow the Ainu to defend against early attacks through the use of Surku Archers. As the game progresses, a Samkusaynu-led Ainu civilisation has the option of going on the attack, due to the frequent general spawns with added reinforcements. Alternatively, the Ainu can stick to defending their forests and pursue whatever kind of victory they are collecting Kamuy Yukar Great Person bonuses for.
