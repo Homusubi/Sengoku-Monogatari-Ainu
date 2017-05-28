@@ -1,4 +1,6 @@
 **Here is all the Ainu-specific dialogue that I know is needed in a mod. If there's any more, please let me know.**
+
+**Samkusaynu**
 		
 		LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY
             You have my thanks. The Ainu people will always welcome friends who stand against those who threaten our freedom.
@@ -52,3 +54,59 @@
 			
 *Dawn of Man Quote*
 All remember when your people were scattered around your homeland, living peacefully but without unity, and with no way of resisting the southern invaders. Those days are behind the Ainu now. Arise, Chief Samkusaynu! Under your banner, backed by thousands of years of tales of the Kamuy, Aynu Mosir will overcome all enemies, and perhaps reclaim that which was lost to the Shamo centuries previously?
+
+
+**Kayano**
+
+LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY
+            You have my eternal thanks for joining this coalition.
+        
+        LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            That proposal is… not acceptable for me, I’m afraid. Perhaps another radical might be more willing to help you.
+        
+        LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            Your actions have been kind to the Ainu people. How about a public Declaration of Friendship, to unite us against our common enemies?
+        
+        LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            The Ainu people need every friend they can get in this world of Shamo rule. And so I am eternally grateful that I can count you as one of them.
+        
+        LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            After what you have done to us for so long? Not a chance.
+        
+        LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            I thought that we could solve this through diplomacy and peaceful politics. I am sorry to say this, but it looks like I was wrong.
+        
+        LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            Look, I never wanted it to go this far. But I will have to call the Ainu people to arms. It’s what Samkusaynu would have wanted us to do.
+        
+        LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            So, I have lost this fight. But there will be many more. The Ainu of Nibutani will never die, will never stop being Ainu – whatever you hope will happen, will not.
+        
+        LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            I accept your delegation. I hope our negotiations will be as fruitful as they can be.
+        
+        LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            If you wanted to not be enemies, you should have done it a few hundred years ago.
+        
+        LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            I have sent a delegation to your lands, bearing the finest Ainu craftwork, just as it has been since time immemorial. Please, accept our people into your capital.
+        
+        LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SAMKUSAYNU_ANY 
+            Who do you think you are, thinking you can treat my people like that?
+        
+        LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SAMKUSAYNU_ANY 
+            Go. Never share a room with me again. And take your hateful, backward opinions with you, you hear?
+        
+        LOC_DIPLO_FIRST_MEET_LEADER_SAMKUSAYNU_ANY 
+            Welcome, welcome, whoever you may be. I am Kayano Shigeru, of the Ainu people, proud once more after centuries of oppression. I hope you will support our return, not hinder it as so many have before you.
+        
+        LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SAMKUSAYNU_ANY 
+            Ah, you wish to talk with me? Most think I am somehow strange, just for standing up for my people. Now, what is it you wish to discuss?
+        
+        
+LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SAMKUSAYNU_ANY 
+            You have my most sincere thanks.
+
+*Dawn of Man Quote*
+
+The fate of your people rests on your shoulders, Councillor Kayano Shigeru, great hope of the Ainu people. However much the odds have been stacked against you, you have never stopped doing everything you possibly can to save your beloved people from their powerful enemies. Come, Kayano-sama! Fight, for one last time, for the sound of your language and for the hunt in the mountains! Make your land a forest once again!
